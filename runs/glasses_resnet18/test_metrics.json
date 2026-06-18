@@ -1,0 +1,13 @@
+{
+  "stopped_epoch": 18,
+  "best_epoch": 13,
+  "best_val_acc": 0.988,
+  "best_val_acc_percent": "98.80%",
+  "test_loss": 0.059585489243268966,
+  "test_acc": 0.982,
+  "test_acc_percent": "98.20%",
+  "test_no_glasses_acc": 0.976,
+  "test_no_glasses_acc_percent": "97.60%",
+  "test_glasses_acc": 0.988,
+  "test_glasses_acc_percent": "98.80%"
+}

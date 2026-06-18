@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Raw datasets and large image files
+data/data/raw_kaggle/
+data/mini_celeba/images/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs
+logs/*.log
+logs/*.txt
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Keep useful dataset metadata
+!data/
+!data/mini_celeba/
+!data/mini_celeba/labels.csv
+!data/mini_celeba/class_to_idx.json
+!data/mini_celeba/split_summary.csv
+
+# Keep experiment result files
+!runs/
+!runs/glasses_resnet18/
+!runs/glasses_resnet18/results/
+!runs/glasses_resnet18/results/*.csv
+!runs/glasses_resnet18/history.json
+!runs/glasses_resnet18/test_metrics.json

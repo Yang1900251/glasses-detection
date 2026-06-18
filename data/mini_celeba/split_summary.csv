@@ -1,0 +1,7 @@
+﻿split,class_name,label,count
+test,no_glasses,0,250
+test,glasses,1,250
+train,no_glasses,0,2000
+train,glasses,1,2000
+val,no_glasses,0,250
+val,glasses,1,250

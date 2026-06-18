@@ -1,0 +1,2 @@
+﻿stopped_epoch,best_epoch,best_val_acc,best_val_acc_percent,test_loss,test_acc,test_acc_percent,test_no_glasses_acc,test_no_glasses_acc_percent,test_glasses_acc,test_glasses_acc_percent
+18,13,0.988,98.80%,0.059585489243268966,0.982,98.20%,0.976,97.60%,0.988,98.80%
