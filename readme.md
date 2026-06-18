@@ -1,4 +1,4 @@
-# Glasses Detection Based on CNN-SE Attention
+# Glasses Detection Based on CNN-SE Attention  B24010402杨雨凡人工智能导论大作业
 
 ## 1. 项目简介
 
